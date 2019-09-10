@@ -1,0 +1,3 @@
+[submodule "website/vrview"]
+	path = website/vrview
+	url = https://github.com/google/vrview
